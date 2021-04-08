@@ -1,0 +1,49 @@
+a:hover{
+	color:red;
+}
+a:active{
+	font-size: 20px;
+	color:red;
+}
+a:link{
+	color:green;
+}
+a:visited{
+	color: grey;
+}
+p:first-letter{
+	font-size: 30px;
+	color: red;
+}
+h1:first-letter{
+	font-size: 24px;
+	color: yellowgreen;
+}
+h2:first-letter{
+	font-size: 24px;
+	color: yellowgreen;
+}
+h3:first-letter{
+	font-size: 24px;
+	color: yellowgreen;
+}
+p:first-line{
+	font-weight: bold;
+	font-style: italic;
+}
+.test:before{
+	content: "УРА!!!"
+}
+.test:after{
+	content: "ОКОНЧАНИЕ!!!"
+}
+.test2:before{
+	content: "Невидимая"
+}
+.test2:after{
+	content: "сторона"
+}
+::selection{
+	color:rgb(207, 207, 207);
+	background: black;
+}
