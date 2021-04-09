@@ -1,0 +1,15 @@
+img[title="Картинка"]{
+	width: 170px;
+}
+img[title="жук"]{
+	width: 130px;
+}
+img[title="images"]{
+	width: 220px;
+}
+a[href="https://www.tmall.com/"]{
+	color: rgb(60, 255, 0);
+}
+a[href="https://www.baidu.com/"]{
+	color: rgb(60, 255, 0);
+}
