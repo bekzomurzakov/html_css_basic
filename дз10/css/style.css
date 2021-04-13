@@ -1,0 +1,13 @@
+p.test1{
+	padding: 20px;
+	background-image: url(../images/1.jpg);
+}
+p.test2{
+	background-image: url(../images/2.png);
+}
+p.test3{
+	background-image: url(../images/3.jpg)
+}
+p.test4{
+	background-image: url(../images/4.jpg);
+}
