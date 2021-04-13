@@ -1,0 +1,45 @@
+body{
+	padding: 20px;
+}
+p{
+	width: 50%;
+	border: 1px solid red;
+	padding: 5px 10px;
+	float: left;
+	box-sizing: border-box;
+}
+div{
+	width: 40%;
+	border: 1px solid #f45;
+	min-height: 200px;
+	background: blue;
+	float: left;
+}	
+p.test1{
+	width: 100%;
+	min-height: 100px;
+}
+p.test2{
+	width: 65%;
+	min-height: 264px;
+}
+p.test3{
+	width: 35%;
+	min-height: 100px;
+}
+p.test4{
+	width: 33.3%;
+	min-height: 100px;
+}
+p.test5{
+	width: 33.3%;
+	min-height: 100px;
+}
+p.test6{
+	width: 33.3%;
+	min-height: 100px;
+}
+p.test7{
+	width: 100%;
+	min-height: 100px;
+}
